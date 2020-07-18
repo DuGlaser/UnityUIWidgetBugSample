@@ -34,10 +34,7 @@ class _SecondScreen : State<HomeScreen>
                                         width: deviseSize.width,
                                         color: Colors.black12,
                                         child: new Text(
-                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample",
-                                            style: new TextStyle(
-                                                height: deviseSize.height * .0018f
-                                            )
+                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample"
                                         )
                                     ),
                                     new Container(
@@ -45,10 +42,7 @@ class _SecondScreen : State<HomeScreen>
                                         width: deviseSize.width,
                                         color: Colors.white,
                                         child: new Text(
-                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample",
-                                            style: new TextStyle(
-                                                height: deviseSize.height * .0018f
-                                            )
+                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample"
                                         )
                                     ),
                                 }
@@ -60,10 +54,7 @@ class _SecondScreen : State<HomeScreen>
                                         width: deviseSize.width,
                                         color: Colors.black12,
                                         child: new Text(
-                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample",
-                                            style: new TextStyle(
-                                                height: deviseSize.height * .0018f
-                                            )
+                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample"
                                         )
                                     ),
                                     new Container(
@@ -71,10 +62,7 @@ class _SecondScreen : State<HomeScreen>
                                         width: deviseSize.width,
                                         color: Colors.white,
                                         child: new Text(
-                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample",
-                                            style: new TextStyle(
-                                                height: deviseSize.height * .0018f
-                                            )
+                                            "samplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesamplesample"
                                         )
                                     ),
                                 }
